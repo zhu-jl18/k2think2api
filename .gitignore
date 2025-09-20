@@ -1,0 +1,26 @@
+# OS / Editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Node/npm
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+package-lock.json
+
+# Wrangler/Cloudflare cache & logs
+.wrangler/
+.wrangler-state/
+.cache/
+*.log
+
+# Misc
+.env
+.env.*
+dist/
+build/
+tmp/
+.temp/

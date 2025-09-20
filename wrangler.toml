@@ -1,0 +1,9 @@
+name = "k2think2api"
+main = "worker.js"
+compatibility_date = "2025-09-20"
+workers_dev = true
+
+# Uncomment to enable logs in dashboard
+# [observability]
+# enabled = true
+
